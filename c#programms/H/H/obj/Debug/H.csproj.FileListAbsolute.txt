@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\programming projects\c#\H\H\bin\Debug\H.exe.config
+C:\Users\user\Desktop\programming projects\c#\H\H\bin\Debug\H.exe
+C:\Users\user\Desktop\programming projects\c#\H\H\bin\Debug\H.pdb
+C:\Users\user\Desktop\programming projects\c#\H\H\obj\Debug\H.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\programming projects\c#\H\H\obj\Debug\H.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\programming projects\c#\H\H\obj\Debug\H.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\programming projects\c#\H\H\obj\Debug\H.exe
+C:\Users\user\Desktop\programming projects\c#\H\H\obj\Debug\H.pdb
+C:\Users\user\Desktop\programming projects\c#\console\H\H\bin\Debug\H.exe.config
+C:\Users\user\Desktop\programming projects\c#\console\H\H\bin\Debug\H.exe
+C:\Users\user\Desktop\programming projects\c#\console\H\H\bin\Debug\H.pdb
+C:\Users\user\Desktop\programming projects\c#\console\H\H\obj\Debug\H.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\programming projects\c#\console\H\H\obj\Debug\H.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\programming projects\c#\console\H\H\obj\Debug\H.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\programming projects\c#\console\H\H\obj\Debug\H.exe
+C:\Users\user\Desktop\programming projects\c#\console\H\H\obj\Debug\H.pdb

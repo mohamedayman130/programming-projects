@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\programming projects\c#\windows\xo\xo\bin\Debug\xo.exe.config
+C:\Users\user\Desktop\programming projects\c#\windows\xo\xo\bin\Debug\xo.exe
+C:\Users\user\Desktop\programming projects\c#\windows\xo\xo\bin\Debug\xo.pdb
+C:\Users\user\Desktop\programming projects\c#\windows\xo\xo\obj\Debug\xo.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\programming projects\c#\windows\xo\xo\obj\Debug\xo.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\programming projects\c#\windows\xo\xo\obj\Debug\xo.Form1.resources
+C:\Users\user\Desktop\programming projects\c#\windows\xo\xo\obj\Debug\xo.Properties.Resources.resources
+C:\Users\user\Desktop\programming projects\c#\windows\xo\xo\obj\Debug\xo.csproj.GenerateResource.cache
+C:\Users\user\Desktop\programming projects\c#\windows\xo\xo\obj\Debug\xo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\programming projects\c#\windows\xo\xo\obj\Debug\xo.exe
+C:\Users\user\Desktop\programming projects\c#\windows\xo\xo\obj\Debug\xo.pdb
